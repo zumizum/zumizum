@@ -2,7 +2,10 @@
 - 👀 Python 
 - 🌱 Computer Science
 - 💞️ BlockChain apps
-- 📫 ludmila_cerne
+- 📫 LinkedIn --> ludmila_cerne Disscord --> zumzum
+
+Hi my name is Ludmila. I am a data engeneer, specializing mainly in pytho and work with related libraries like pandas , jupiter etc. Have keen interest in automation, statistical data 
+analysis, ML, AI and related fields. Interested on blockchain based systems/aplications. Have working knowladge of Java, JS, Go. Some experiance in .NET, Azure, AWS and google cloud services. Have dipped a bit into UX and visual design thats just for fun tho.
 
 <!---
 zumizum/zumizum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
