@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zumizum
+- 👋 Hi, I’m Ludmila
 - 👀 Python 
 - 🌱 Computer Science
 - 💞️ BlockChain apps
